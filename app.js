@@ -15,7 +15,7 @@ function exibirMensagemInicial() {
 }
 
 exibirMensagemInicial();
-
+//comentário
 function verificarChute() {
     let chute = document.querySelector('input').value;
     
